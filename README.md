@@ -27,3 +27,16 @@ Si no conoces las fórmulas para las conversiones puedes buscarlas en Google.
 Recuerda convertir a number el valor solicitado por prompt o por un input y verificar que sea un número para evitar errores en tu programa.
 Recuerda que para mostrar mensajes por consola o por el DOM, debes crear un archivo HTML y enlazar tu script.
 Para ayudarte puedes desarrollar un algoritmo y el pseudocódigo.
+
+# Inicializacion
+
+- Se debe clonar el repo ``` https://github.com/Maurux01/logica-programacion-2 ```
+
+- entras en la carpeta "logica-programacion-2"
+- luego abrir una terminal y escribir ``` npm i prompt-sync  ```
+- debes tener instalado node.js
+- una vez instalado ejecuta ```  node script.js ```
+- te pedira ingresar el dato que deseas 
+- el resultado sera la conversion a kelvin y farenheit.
+- hecho por Mauro Infante - Maurux01
+ 
